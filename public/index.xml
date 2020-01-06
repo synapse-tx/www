@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team Synapse</title>
+    <link>https://synapse-tx.netlify.com/</link>
+    <description>Recent content on Team Synapse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jan 2020 16:24:34 +0900</lastBuildDate>
+    
+	<atom:link href="https://synapse-tx.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our project was introduced on Japanese TV Program</title>
+      <link>https://synapse-tx.netlify.com/posts/2020_01_06_3_tv_show/</link>
+      <pubDate>Mon, 06 Jan 2020 16:24:34 +0900</pubDate>
+      
+      <guid>https://synapse-tx.netlify.com/posts/2020_01_06_3_tv_show/</guid>
+      <description>This project is a joint program between several companies. It was introduced on Japanese Television program. (Kigyodamashi on August 02, 2019. from 13:26 to 16:42)</description>
+    </item>
+    
+    <item>
+      <title>Demo Movie(July 2019)</title>
+      <link>https://synapse-tx.netlify.com/posts/2020_01_06_2_demo_movie/</link>
+      <pubDate>Mon, 06 Jan 2020 15:45:18 +0900</pubDate>
+      
+      <guid>https://synapse-tx.netlify.com/posts/2020_01_06_2_demo_movie/</guid>
+      <description>This is our first prototype created since the project started in April 2019.
+ A robot in this movie is TOROBO, which is general purpose humanoid robot, not designed only for Telepresence use-case. Now we are creating a new AVATAR robot.</description>
+    </item>
+    
+    <item>
+      <title>Team Synapse Official Web Site Open</title>
+      <link>https://synapse-tx.netlify.com/posts/2020_01_06_1_site-open/</link>
+      <pubDate>Mon, 06 Jan 2020 15:25:40 +0900</pubDate>
+      
+      <guid>https://synapse-tx.netlify.com/posts/2020_01_06_1_site-open/</guid>
+      <description>This is WebSite of Team Synapse, which is one of the team attending ANA AVATAR XPRIZE. Our team consists of four expert groups, NTT Communications, Tokyo Robotics, Waseda University and XELA Robotics. Each team leader is an expert with a doctorate in their field: Network, Robotics, Semi-autonomous Control, and Tactile Sensing.
+This blog shows our progress and technical information about AVATAR.</description>
+    </item>
+    
+  </channel>
+</rss>
